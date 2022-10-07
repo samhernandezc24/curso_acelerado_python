@@ -1,2 +1,22 @@
-# curso_acelerado_python
-CNII 2022 Accelerated Python Programming Workshop, by Dr. José Manuel Gómez Zea.
+# Curso de programacion acelerada en Python
+
+<p align="center">
+  <img src="logopython.png" width="300">
+</p>
+
+Ejercicios realizados por sesión de clases:
+
+* [Sesion Uno](/sesion1/README.md)
+* [Sesion Dos](/sesion2/README.md)
+* [Sesion Tres](/sesion3/README.md)
+* [Sesion Cuatro](/sesion4/README.md)
+* [Sesion Cinco](/sesion5/README.md)
+* [Sesion Seis](/sesion6/README.md)
+
+## Agradecimientos
+
+> Dr. Jose Manuel Gomez Zea | [ZeaTraining](http://www.zeatraining.com/) 🚀 
+
+### Autor
+
+> Samuel David Hernández Contreras 🖖
