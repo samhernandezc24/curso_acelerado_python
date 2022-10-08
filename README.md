@@ -11,7 +11,6 @@ Ejercicios realizados por sesión de clases:
 * [Sesion Tres](/sesion3/README.md)
 * [Sesion Cuatro](/sesion4/README.md)
 * [Sesion Cinco](/sesion5/README.md)
-* [Sesion Seis](/sesion6/README.md)
 
 ## Agradecimientos
 
