@@ -11,8 +11,6 @@ coste = float(input("Introduce lo que cobras por hora: "))
 horas_extra = float(input("Introduce las horas extra: "))
 
 coste_extra = coste * horas_extra
-
-# paga = horas * coste
 paga = (horas * coste) + coste_extra * 2
 
-print("Tu paga es $", paga)
+print("Tu paga es:", paga)

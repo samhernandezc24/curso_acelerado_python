@@ -7,7 +7,6 @@ Action: Superficie de un Cuadrado
 '''
 
 lado = input("Ingrese la medida del lado del cuadrado: ")
-# lado = int(lado)
 lado = float(lado)
 superficie = lado * lado
 
